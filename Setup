@@ -1,0 +1,14 @@
+The project requires some software and hardware components.
+Software :
+1. Arduino IDE (Download it directly from Microsoft Store)
+2. Download and Install Python 
+3. Python Libraries installation command : pip install pyautogui serial time 
+(Paste this command on command prompt)
+
+
+Hardware :
+1. Ultrasonic Sensor HC-SR04 - 2 quantity
+2. Arduino UNO
+3. Jumper Wires
+4. BreadBoard (Small)
+
